@@ -10,3 +10,4 @@
 - #### [Giri](https://github.com/giribabuweb)
 - #### [Brian] (https://github.com/BrianSpencerDev)
 - #### [Kaustubh Jaiswal](https://github.com/kaustubh2020)
+- #### [TheAnandPal](https://github.com/TheAnandPal)
